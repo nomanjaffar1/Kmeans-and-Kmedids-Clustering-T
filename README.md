@@ -1,1 +1,4 @@
 # MACHINE-LEARNING-ASSIGHNMENT
+<br>
+
+This repository provides Python implementations of two popular clustering algorithms: K-means and K-medoids. K-means partitions data into K clusters by iteratively assigning points to the nearest cluster centroid and updating centroids to minimize the sum of squared distances. In contrast, K-medoids uses actual data points as medoids and updates them to minimize dissimilarities, making it robust to outliers. Example usage and a demonstration script (example_clustering.py) show how to apply these algorithms to custom datasets, with dependencies on numpy and scipy for efficient computation
